@@ -1,0 +1,11 @@
+/Users/danaluukko/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.deps.json
+/Users/danaluukko/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.json
+/Users/danaluukko/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.runtimeconfig.dev.json
+/Users/danaluukko/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/danaluukko/Desktop/double-it/bin/Debug/netcoreapp2.2/DoubleIt.pdb
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csprojAssemblyReference.cache
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.csproj.CoreCompileInputs.cache
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfoInputs.cache
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.AssemblyInfo.cs
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.dll
+/Users/danaluukko/Desktop/double-it/obj/Debug/netcoreapp2.2/DoubleIt.pdb

@@ -1,0 +1,11 @@
+/Users/danaluukko/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.deps.json
+/Users/danaluukko/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.json
+/Users/danaluukko/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.dev.json
+/Users/danaluukko/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.dll
+/Users/danaluukko/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.pdb
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.csprojAssemblyReference.cache
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.csproj.CoreCompileInputs.cache
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfoInputs.cache
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfo.cs
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.dll
+/Users/danaluukko/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.pdb

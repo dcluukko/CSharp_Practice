@@ -1,0 +1,11 @@
+/Users/danaluukko/Desktop/starts-with-z/bin/Debug/netcoreapp2.2/StartsWithZ.deps.json
+/Users/danaluukko/Desktop/starts-with-z/bin/Debug/netcoreapp2.2/StartsWithZ.runtimeconfig.json
+/Users/danaluukko/Desktop/starts-with-z/bin/Debug/netcoreapp2.2/StartsWithZ.runtimeconfig.dev.json
+/Users/danaluukko/Desktop/starts-with-z/bin/Debug/netcoreapp2.2/StartsWithZ.dll
+/Users/danaluukko/Desktop/starts-with-z/bin/Debug/netcoreapp2.2/StartsWithZ.pdb
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.csprojAssemblyReference.cache
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.csproj.CoreCompileInputs.cache
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.AssemblyInfoInputs.cache
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.AssemblyInfo.cs
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.dll
+/Users/danaluukko/Desktop/starts-with-z/obj/Debug/netcoreapp2.2/StartsWithZ.pdb
